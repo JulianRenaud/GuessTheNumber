@@ -1,0 +1,15 @@
+C:\Users\Pearl-Laptop\Desktop\Repos\SelectionStatmentExercise\SelectionStatmentExercise\bin\Debug\net6.0\SelectionStatmentExercise.exe
+C:\Users\Pearl-Laptop\Desktop\Repos\SelectionStatmentExercise\SelectionStatmentExercise\bin\Debug\net6.0\SelectionStatmentExercise.deps.json
+C:\Users\Pearl-Laptop\Desktop\Repos\SelectionStatmentExercise\SelectionStatmentExercise\bin\Debug\net6.0\SelectionStatmentExercise.runtimeconfig.json
+C:\Users\Pearl-Laptop\Desktop\Repos\SelectionStatmentExercise\SelectionStatmentExercise\bin\Debug\net6.0\SelectionStatmentExercise.dll
+C:\Users\Pearl-Laptop\Desktop\Repos\SelectionStatmentExercise\SelectionStatmentExercise\bin\Debug\net6.0\SelectionStatmentExercise.pdb
+C:\Users\Pearl-Laptop\Desktop\Repos\SelectionStatmentExercise\SelectionStatmentExercise\obj\Debug\net6.0\SelectionStatmentExercise.csproj.AssemblyReference.cache
+C:\Users\Pearl-Laptop\Desktop\Repos\SelectionStatmentExercise\SelectionStatmentExercise\obj\Debug\net6.0\SelectionStatmentExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pearl-Laptop\Desktop\Repos\SelectionStatmentExercise\SelectionStatmentExercise\obj\Debug\net6.0\SelectionStatmentExercise.AssemblyInfoInputs.cache
+C:\Users\Pearl-Laptop\Desktop\Repos\SelectionStatmentExercise\SelectionStatmentExercise\obj\Debug\net6.0\SelectionStatmentExercise.AssemblyInfo.cs
+C:\Users\Pearl-Laptop\Desktop\Repos\SelectionStatmentExercise\SelectionStatmentExercise\obj\Debug\net6.0\SelectionStatmentExercise.csproj.CoreCompileInputs.cache
+C:\Users\Pearl-Laptop\Desktop\Repos\SelectionStatmentExercise\SelectionStatmentExercise\obj\Debug\net6.0\SelectionStatmentExercise.dll
+C:\Users\Pearl-Laptop\Desktop\Repos\SelectionStatmentExercise\SelectionStatmentExercise\obj\Debug\net6.0\refint\SelectionStatmentExercise.dll
+C:\Users\Pearl-Laptop\Desktop\Repos\SelectionStatmentExercise\SelectionStatmentExercise\obj\Debug\net6.0\SelectionStatmentExercise.pdb
+C:\Users\Pearl-Laptop\Desktop\Repos\SelectionStatmentExercise\SelectionStatmentExercise\obj\Debug\net6.0\SelectionStatmentExercise.genruntimeconfig.cache
+C:\Users\Pearl-Laptop\Desktop\Repos\SelectionStatmentExercise\SelectionStatmentExercise\obj\Debug\net6.0\ref\SelectionStatmentExercise.dll
